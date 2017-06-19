@@ -1,8 +1,8 @@
 # layout_bobot
-Este repositório contém os arquivos relacionados ao layout do front-end do projeto B.O Bot (https://www.facebook.com/hackfestbobot). 
+Este repositório contém os arquivos relacionados ao layout do front-end do projeto [B.O Bot](https://www.facebook.com/hackfestbobot). 
  Possui desde os códigos necessários para estruturação e estilização da página até os scripts necessários para a manipulação dos
 elementos DOM, inicialização, geolocalização e pesquisa do mapa.
- Todo o layout foi feito utilizando a framework de css bootstrap (http://getbootstrap.com/).
+ Todo o layout foi feito utilizando a framework de css [bootstrap](http://getbootstrap.com/).
  O layout é responsivo, assim, sua visualização é automaticamente ajustada para dispositivos móveis.
 
 ## Estrutura do repositório: 
@@ -17,7 +17,7 @@ elementos DOM, inicialização, geolocalização e pesquisa do mapa.
   Contém os scripts utilizados pela página
     
   #### jquery-3.1.0.min.js 
-  Arquivo da biblioteca JQuery, na versão 3.1 (https://jquery.com/)
+  Arquivo da biblioteca [JQuery](https://jquery.com/), na versão 3.1 
       
   #### scriptMapa.js
   Script carregado no arquivo index.html para inicialização do mapa, como também, habilitação da geolocalização do usuário e 
